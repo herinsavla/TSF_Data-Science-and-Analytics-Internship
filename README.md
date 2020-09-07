@@ -1,4 +1,5 @@
-# TSF_Data-Science-and-Analytics-Internship  ![alt text](https://www.thesparksfoundationsingapore.org/images/logo_small.png)
+# TSF_Data-Science-and-Analytics-Internship
+![alt text](https://www.thesparksfoundationsingapore.org/images/logo_small.png)
 The Sparks Foundation is a non-profit organization running in India and Singapore.They inspire students to innovate and help them integrate to build a better humankind. Being a virtual intern hired via their GRIP program, I've created this repository to showcase my work and learnings through various assigned tasks.
 
 
